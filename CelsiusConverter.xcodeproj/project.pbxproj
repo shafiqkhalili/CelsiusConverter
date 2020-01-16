@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E21A040223D06A020045B4E4 /* CelsiusConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21A040123D06A020045B4E4 /* CelsiusConverter.swift */; };
 		E246D35723D05333003F0056 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E246D35623D05333003F0056 /* AppDelegate.swift */; };
 		E246D35923D05333003F0056 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E246D35823D05333003F0056 /* SceneDelegate.swift */; };
 		E246D35B23D05333003F0056 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E246D35A23D05333003F0056 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E21A040123D06A020045B4E4 /* CelsiusConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelsiusConverter.swift; sourceTree = "<group>"; };
 		E246D35323D05333003F0056 /* CelsiusConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CelsiusConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E246D35623D05333003F0056 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E246D35823D05333003F0056 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				E246D35F23D05334003F0056 /* Assets.xcassets */,
 				E246D36123D05334003F0056 /* LaunchScreen.storyboard */,
 				E246D36423D05334003F0056 /* Info.plist */,
+				E21A040123D06A020045B4E4 /* CelsiusConverter.swift */,
 			);
 			path = CelsiusConverter;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E246D35B23D05333003F0056 /* ViewController.swift in Sources */,
+				E21A040223D06A020045B4E4 /* CelsiusConverter.swift in Sources */,
 				E246D35723D05333003F0056 /* AppDelegate.swift in Sources */,
 				E246D35923D05333003F0056 /* SceneDelegate.swift in Sources */,
 			);

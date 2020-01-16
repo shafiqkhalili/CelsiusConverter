@@ -7,3 +7,9 @@
 //
 
 import Foundation
+class CelsiusConverter{
+    func degreesFahrenheit(degreesCelsius: Int) -> Int {
+        let  degreeF = 1.8 * Double(degreesCelsius) + 32.0
+        return Int(round(degreeF))
+    }
+}
